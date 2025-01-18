@@ -7,4 +7,5 @@ I started by using the example in the p5.js library which had a describe functio
 ![solution two](https://github.com/user-attachments/assets/b7b3812d-2212-416b-a8e7-bb73c070fef1)
 <img width="928" alt="conditonals " src="https://github.com/user-attachments/assets/f2d0bfdc-957d-4318-a7be-1b041c843c8c" />
 I often found myself stumped when a code wouldn't work and then I would look back just to find it was a typo. For example having auto capitalisation on for new lines or typing out my full thoughts rather than just the code needed. 
+
 https://editor.p5js.org/Acacia559/full/1zy0UCs23 
