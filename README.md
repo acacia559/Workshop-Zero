@@ -8,4 +8,7 @@ I started by using the example in the p5.js library which had a describe functio
 <img width="928" alt="conditonals " src="https://github.com/user-attachments/assets/f2d0bfdc-957d-4318-a7be-1b041c843c8c" />
 I often found myself stumped when a code wouldn't work and then I would look back just to find it was a typo. For example having auto capitalisation on for new lines or typing out my full thoughts rather than just the code needed. 
 
+<img width="1128" alt="second shape ws zero" src="https://github.com/user-attachments/assets/1eb8b74c-8e48-48c9-a2ad-745f09c6adac" />
+I did another shape but I didn't realy want to repeat myself by doing the same variations so i left it at that for the day and will experiment furt5her in the other workshop tasks. 
+
 https://editor.p5js.org/Acacia559/full/1zy0UCs23 
